@@ -14,14 +14,14 @@ ox_target is the successor to qtarget, which was a mostly-compatible fork of bt-
 # Previews
 
 - Normal Target
-![immage](https://i.imgur.com/3AoMvBW.png)
-
-- Target with Sprite
-![image](https://i.imgur.com/VlJq7iv.png)
+![immage](https://i.imgur.com/OkyT9g4.jpeg)
 
 - Target on Object
-![image](https://i.imgur.com/N79mazN.png)
+![image](https://i.imgur.com/0pplI6k.jpeg)
 
 - Target on Object Selected
-![image](https://i.imgur.com/E4gLQjl.png)
+![image](https://i.imgur.com/MzbhMtW.jpeg)
 
+
+
+FULL CREDITS GO TO https://github.com/Obtaizen/ox_target I just wanted to share my edit of this.
